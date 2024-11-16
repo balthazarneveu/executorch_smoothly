@@ -1,3 +1,5 @@
+cmake-out
+build
 # Prerequisites
 *.d
 
